@@ -33,13 +33,20 @@ Neste projeto foram analisadas cuidadosamente redes temporais de co-autoria nos 
 
   
   
-Para uma visualização precisa utilizamos bibliotecas do Python como Matplotlib.pyplot e Joyplot para plotagem, fazendo inicialmente um gráfico único contendo detalhadamente 4 das métricas mencionadas.
+Para uma visualização precisa utilizamos bibliotecas do Python como Matplotlib e Joyplot para plotagem, fazendo inicialmente um gráfico único contendo detalhadamente 4 das métricas mencionadas, além de utilizar uma IA generativa como o ChatGPT-4.1 para explorar novos métodos dessas bibliotecas com o intuito de aplicar melhorias aos gráficos já feitos.  
+
+### Exemplo de prompt utilizado: 
+
+![image](https://github.com/user-attachments/assets/73c6d02b-c769-40ce-90f0-62741915f1c1)  
+
+### Gráfico de 4 curvas:
+
 
 
 ![image](https://github.com/user-attachments/assets/8236914e-7333-49bb-9d29-6ce5df85f9f8)
 
 
-Após isso, foi feito um histograma inicial para visualização da distribuição do número de vizinhos.
+Em seguida, foi feito um histograma inicial para visualização da distribuição do número de vizinhos.
 
 
 ![image](https://github.com/user-attachments/assets/d0884a91-100c-45b6-aeae-616406cb9bc6)
@@ -50,5 +57,3 @@ Após esse histograma fizemos um Ridgeline Chart contendo detalhadamente, de for
 
 ![image](https://github.com/user-attachments/assets/29162a5a-f8df-4a8b-9b43-81001d361fa9)
 
-
-Repositório utilizado para o primeiro projeto da disciplina Algorítmos e Estruturas de Dados II da UFRN.
