@@ -57,3 +57,26 @@ Após esse histograma fizemos um Ridgeline Chart contendo detalhadamente, de for
 
 ![image](https://github.com/user-attachments/assets/29162a5a-f8df-4a8b-9b43-81001d361fa9)
 
+
+
+### Na Base de dados com redes temporais de co-autoria trienais e quadrienais foram realizadas as seguintes análises:
+
+• Destacamos os 5 vértices com mais vizinhos;  
+• Pintamos as arestas de vermelho caso conectassem dois membros permanentes, e de preto caso contrário;  
+• Tornamos as larguras das arestas proporcionais às quantidades de citações.  
+
+
+### Grafo trienal 2010-2012 com os 5 vértices destacados e arestas com larguras definidas
+
+![image](https://github.com/user-attachments/assets/5c5891ab-9d2a-4131-99ad-72ea304a9d89)
+
+
+### A partir do grafo de dados gerais (2010-2025) criamos um subgrafo contendo apenas as vértices que possuiam no mínimo 71 vizinhos, calculamos sua densidade e comparamos ao grafo original:  
+
+![image](https://github.com/user-attachments/assets/39285680-ebda-4a1c-89b6-24a5de9538ec)
+
+
+
+
+
+
