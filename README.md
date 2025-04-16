@@ -5,6 +5,8 @@
 
 ### • Maurício Matheus Araújo Silva Galvão  
 
+Link do vídeo de explicação: https://drive.google.com/drive/folders/1FvI7g-Vqg4VsbtOWoD4F6qVL4mRV2INr?usp=sharing
+
 Neste projeto foram analisadas cuidadosamente redes temporais de co-autoria nos seguintes formatos:
 
 • Anuais (2010-2025);   
