@@ -76,6 +76,9 @@ Após esse histograma fizemos um Ridgeline Chart contendo detalhadamente, de for
 ![image](https://github.com/user-attachments/assets/39285680-ebda-4a1c-89b6-24a5de9538ec)
 
 
+### Por fim, criamos uma rede ego de um nó aleatório e analisamos suas propriedades:
+
+![image](https://github.com/user-attachments/assets/4e8df3c9-3b49-4967-b63a-9c514b83b99e)
 
 
 
