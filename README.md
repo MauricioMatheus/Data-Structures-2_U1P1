@@ -70,17 +70,20 @@ Após esse histograma fizemos um Ridgeline Chart contendo detalhadamente, de for
 
 ### Grafo trienal 2010-2012 com os 5 vértices destacados e arestas com larguras definidas
 
-![image](https://github.com/user-attachments/assets/5c5891ab-9d2a-4131-99ad-72ea304a9d89)
+![image](https://github.com/user-attachments/assets/10b29fc6-ae3f-4917-9ff0-69dbd426a314)
+
 
 
 ### A partir do grafo de dados gerais (2010-2025) criamos um subgrafo contendo apenas as vértices que possuiam no mínimo 71 vizinhos, calculamos sua densidade e comparamos ao grafo original:  
 
-![image](https://github.com/user-attachments/assets/39285680-ebda-4a1c-89b6-24a5de9538ec)
+![image](https://github.com/user-attachments/assets/822b4eb6-0f55-441f-b2d5-66a8262dc6d1)
+
 
 
 ### Por fim, criamos uma rede ego de um nó aleatório e analisamos suas propriedades:
 
-![image](https://github.com/user-attachments/assets/4e8df3c9-3b49-4967-b63a-9c514b83b99e)
+![image](https://github.com/user-attachments/assets/0cd5f740-5178-425f-a460-578b5155ae21)
+
 
 
 
