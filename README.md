@@ -68,7 +68,7 @@ Após esse histograma fizemos um Ridgeline Chart contendo detalhadamente, de for
 • Tornamos as larguras das arestas proporcionais às quantidades de citações.  
 
 
-### Grafo trienal 2010-2012 com os 5 vértices destacados e arestas com larguras definidas
+### Grafo trienal 2010-2012 com os 5 vértices destacados e arestas com larguras e cores definidas
 
 ![image](https://github.com/user-attachments/assets/10b29fc6-ae3f-4917-9ff0-69dbd426a314)
 
