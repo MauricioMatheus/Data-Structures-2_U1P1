@@ -5,7 +5,7 @@
 
 ### • Maurício Matheus Araújo Silva Galvão  
 
-Link do vídeo de explicação: https://drive.google.com/drive/folders/1FvI7g-Vqg4VsbtOWoD4F6qVL4mRV2INr?usp=sharing
+Link do vídeo de explicação: https://drive.google.com/drive/u/0/folders/1wRX3CzMqgV-vRoV5M9_VavyTttBIDMgL
 
 Neste projeto foram analisadas cuidadosamente redes temporais de co-autoria nos seguintes formatos:
 
